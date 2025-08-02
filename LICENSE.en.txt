@@ -1,0 +1,66 @@
+# Anti Intellectual Property License
+
+## 0. Overview
+The Anti Intellectual Property License (AIPL) is an international copyleft license designed to enable the complete relinquishment of all copyright and related rights in any given work, thereby effectively preventing proprietary appropriation. This license is free, requires no attribution, and mandates share-alike distribution under identical or equivalent terms.
+
+This document constitutes the official full legal text of the AIPL, defining the conditions under which the licensed work may be used, modified, and distributed.
+
+The following table summarizes the key features of the AIPL:
+
+|                                                               | Free / Permitted            | Mandatory | Prohibited |
+| ------------------------------------------------------------- | --------------------------- | --------- | ---------- |
+| Use (including commercial)                                    | ✔                           |           |            |
+| Distribution (including verbatim and modified copies)         | ✔                           |           |            |
+| Modification (including partial modifications)                | ✔                           |           |            |
+| Attribution                                                   | ✔ (no attribution required) |           |            |
+| ShareAlike (AIPL or a license of equivalent terms) / Copyleft |                             | ✔         |            |
+
+**Disclaimer:**  
+The inclusion of this license text **does not** imply any endorsement or acceptance of intellectual property concepts or copyright laws by the authors or licensors. This document is provided solely to meet the practical legal requirements imposed by existing copyright regimes, enabling the intended waiver of rights within applicable law.
+
+## 1. Purpose and Scope
+
+This license (**AIPL**) is intended to grant unrestricted rights to use, reproduce, modify, and distribute the licensed material, including for commercial purposes, without any requirement for attribution. The license explicitly allows all forms of copying, adaptation, and exploitation of the material.
+
+However, this license includes a copyleft or sharealike provision, which ensures that any derivative works or adaptations of the licensed material must be distributed under the same license terms, preserving the freedoms granted herein. This copyleft condition is designed to maintain the openness and free availability of the material and its derivatives in perpetuity.
+
+**The primary purposes of this license are:**  
+(i) to promote free cultural and creative exchange by removing all barriers to use while ensuring that derivative works remain available under identical licensing terms;  
+(ii) to enable intellectual property abolitionists and critics to fully relinquish their copyright rights;  
+(iii) while providing a means to resist intellectual property enforcement and the proprietary appropriation of their works.
+
+This license (AIPL) applies to the fullest extent permitted by the applicable jurisdiction’s copyright laws, encompassing all rights granted or recognized therein. To the extent that such rights exist, this license asserts the relinquishment or waiver of those rights as fully as possible under the law.
+### 1.1 Definitions
+
+- **"Work"** means any creative or intellectual output to which this license is applied by the licensor. This may include all subject matter over which the applicable jurisdiction grants copyright protection, regardless of medium or form, including but not limited to software, texts, music, images, audiovisual content, data, information, and inventions.
+- **"You"** or **"Licensee"** means any person or entity exercising rights granted under this license and engaging in authorized use of the Work in accordance with the terms of this license.
+- **"ShareAlike"** means that adaptations, modifications, or derivative works must be distributed under the same or equivalent license terms as this license.
+
+## 2. Grant of Rights
+
+Subject to the terms and conditions of this license, the licensor hereby grants the licensee a worldwide, royalty-free, non-exclusive, irrevocable, perpetual license to:
+
+- Use the Work for any purpose, including commercial use;
+- Reproduce, distribute, publicly display, perform, and communicate the Work to the public (or anyone else);
+- Make modifications to the Work, including partial modifications, and create derivative works by any means;
+- _Insofar as (if and only if) distribute copies of the Work and derivative works are licensed under the same terms (AIPL) oder an equivalent license (see Section 3)._
+
+By applying this license, the licensor explicitly waives, surrenders and relinquishes all restrictive copyright claims and enforcement rights to the fullest extent permitted by law.
+
+Any further statements by the licensor requesting attribution, non-distribution, non-commercial use only, non-modification (etc.) shall only be regarded as **non-binding** wishes, recommendations, or encouragements and, thus, do not constitute legal claims, nor shall they be considered legally enforceable (to the extent permitted by law).
+
+## 3. Copyleft Requirement
+
+Any distribution or derivation of the Work must be licensed under this license (AIPL) or a license with equivalent terms. An equivalent license means a license that grants the same freedoms without attribution requirements and enforces share-alike conditions, that is:
+
+- No attribution requirement;
+- Free use for any purpose (no restrictions on use, distribution, modification);
+- Mandatory share-alike terms ensuring equivalent freedoms. (Copyleft)
+
+This ensures that all copies and derivatives remain free of proprietary restrictions.
+
+## 4. No Warranty
+
+THE WORK IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR NON-INFRINGEMENT.
+
+IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT, OR OTHERWISE, ARISING FROM, OUT OF, OR IN CONNECTION WITH THE WORK OR THE USE OR OTHER DEALINGS IN THE WORK.
