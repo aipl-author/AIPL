@@ -93,4 +93,4 @@ Yes, without restriction – as long as their modified version stays under AIPL 
 ---
 
 ### 🌱 16 Can I contribute to the AIPL Project
-Yes. If you open an issue or pull request we can discuss your recommended changes. Feel free to improve the Anti Intellectual Property License to make it more legally binding, clear and functional!
+Yes. If you open an issue or pull request we can discuss your recommended changes. Feel free to improve the Anti Intellectual Property License to make it more legally binding, clear and functional or improve the FAQ!
