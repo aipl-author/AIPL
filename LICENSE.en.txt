@@ -1,7 +1,7 @@
 # Anti Intellectual Property License
 
 ## 0. Overview
-The Anti Intellectual Property License (AIPL) is an international public and free copyleft license designed to enable the complete relinquishment of all copyright and related rights in any given work, thereby effectively preventing proprietary appropriation. This license is free, requires no attribution, and mandates share-alike distribution under identical or equivalent terms.
+The Anti Intellectual Property License (AIPL) is an international public and radically free copyleft license designed to enable the complete relinquishment of all copyright and related intellectual property rights in any given work,while simultaneously effectively preventing proprietary appropriation. This license is free, requires no attribution, and mandates share-alike distribution under identical or equivalent terms.
 
 This document constitutes the official full legal text of the AIPL, defining the conditions under which the licensed work may be used, modified, and distributed.
 
@@ -62,7 +62,8 @@ if You Share Adapted Material You produce, the following conditions apply:
 
 1. The Adapter’s License You apply must either be the Anti Intellectual Property License (AIPL), this version or later, or a AIPL Compatible License (license of equivalent terms).
 2. You must include the text of, or the URI or hyperlink to, the Adapter's License You apply. You may satisfy this condition in any reasonable manner based on the medium, means, and context in which You Share Adapted Material.
-3. You may not offer or impose any additional or different terms or conditions on, or apply any Effective Technological Measures to, Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+3. You may not offer or impose any additional or different terms or conditions on Adapted Material that restrict exercise of the rights granted under the Adapter's License You apply.
+4. If You apply any Effective Technological Measures to Adapted Material, You hereby grant all recipients a perpetual, worldwide, royalty‑free permission to circumvent, disable, or remove such measures, and You waive and agree not to assert any legal claims or rights to maintain, enforce, or reinstate those measures.
 
 ### b. Note on Attribution
 For the avoidance of doubt, You are free to choose to give attribution to the licensor or creator(s) or not to. Attribution is **not** required, neither mandatory nor banned. Any further statements by the licensor requesting attribution shall only be regarded as **non-binding** wishes, recommendations, or encouragements and, thus, do not constitute conditions of this license nor legal claims. The Adapter's License may not restrict that for any Adapted Material Shared.
