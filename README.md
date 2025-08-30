@@ -67,7 +67,7 @@ Yes. Commercial use is explicitly permitted. Others may sell or redistribute you
 ### 📝 14. Do I have to be credited?
 No. Attribution is not required, though it is allowed and encouraged.
 
-###´🛠️ 15. Can people modify my work?
+### 🛠️ 15. Can people modify my work?
 Yes. Anyone may modify your work without restriction, provided the modified version is licensed under AIPL or a license with equivalent terms.
 
 ### 🌱 16. Can I contribute to the AIPL project?
